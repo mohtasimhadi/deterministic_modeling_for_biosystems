@@ -4,6 +4,7 @@
 ## Instructor
 
 **Dr. William D. Batchelor**
+
 Professor, Biosystems Engineering, Auburn Unversity
 
 Email: bbatch@auburn.edu
