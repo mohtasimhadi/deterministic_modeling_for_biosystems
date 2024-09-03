@@ -4,13 +4,7 @@
 ## Instructor
 
 **Dr. William D. Batchelor**
-
-Professor
-
-Office: 208 Tom Corley Building
-
-Phone: 334-703-9255
-
+Professor, Biosystems Engineering, Auburn Unversity
 Email: bbatch@auburn.edu
 
  
