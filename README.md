@@ -19,5 +19,5 @@ This course focuses on basic concepts of systems analysis and simulation of the 
 | Date          | Lecture Material | Text       | Homework   |
 |---------------|------------------|------------|------------|
 |August 20, 2024|                   |[Chapter 5](https://github.com/mohtasimhadi/deterministic_modeling_for_biosystems/blob/main/Textbooks/Keen%20%26%20Spain%20Chapter%205.pdf)|            |
-|August 20, 2024|               |            |            |
-|August 20, 2024|               |            |            |
+|August 22, 2024|               |            |            |
+|August 27, 2024|               |[Chapter 1](https://github.com/mohtasimhadi/deterministic_modeling_for_biosystems/blob/main/Textbooks/Keen%20%26%20Spain%20Chapter%201.pdf)|[HW2](https://github.com/mohtasimhadi/deterministic_modeling_for_biosystems/tree/main/Homeworks/HW2)            |
